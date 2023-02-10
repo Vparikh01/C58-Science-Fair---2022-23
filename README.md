@@ -6,13 +6,13 @@ Simple overview of use/purpose.
 This repository contains the code used for science fair project C58 in 22-23. We have included the ino files used to program our device for this project. More information regarding our project can be found here: https://docs.google.com/presentation/d/15PyKKjC3EOhP4zDwpX35mDBuFr1c6qA1CsdZtJiuOBg/edit?usp=sharing
 
 # Getting Started
-Dependencies: 
-Arduino IDE
-Installing:
-https://www.arduino.cc/en/software
+Dependencies:<br />
+Arduino IDE <br />
+Installing: <br />
+https://www.arduino.cc/en/software <br />
 
 # Authors
-Eshaan Sharma
+Eshaan Sharma <br />
 Vihaan Parikh - @Vparikh01
 
 # Version History
@@ -25,5 +25,5 @@ Initial Release
 This project is licensed under the Apache 2.0 License - see the LICENSE.md file for details
 
 # Acknowledgments
-Michelle Scilingo - Sponsor
+Michelle Scilingo - Sponsor <br />
 Sarah Rahman - Sponsor
