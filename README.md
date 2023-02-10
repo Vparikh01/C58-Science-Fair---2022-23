@@ -11,18 +11,19 @@ Arduino IDE
 Installing:
 https://www.arduino.cc/en/software
 
-Authors
+# Authors
 Eshaan Sharma
 Vihaan Parikh - @Vparikh01
 
-Version History
+# Version History
 0.2
 Various bug fixes and optimizations
 0.1
 Initial Release
-License
+
+# License
 This project is licensed under the Apache 2.0 License - see the LICENSE.md file for details
 
-Acknowledgments
+# Acknowledgments
 Michelle Scilingo - Sponsor
 Sarah Rahman - Sponsor
