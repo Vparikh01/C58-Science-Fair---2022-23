@@ -13,6 +13,7 @@ https://www.arduino.cc/en/software <br />
 
 # Authors
 Eshaan Sharma <br />
+Cassien Delmas <br />
 Vihaan Parikh - @Vparikh01
 
 # Version History
